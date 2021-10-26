@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03d7a987-dee4-4a70-a7da-464d08bcfc04" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/core/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/DasaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObject/NossasMarcasPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/stepDefinition/DasaPageSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="03d7a987-dee4-4a70-a7da-464d08bcfc04" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
